@@ -11,11 +11,6 @@ p img {
     height:36px;       
 }
 
-img[alt~=" "] {    
-    border: 10px;
-    padding: 2em;
-}
-
 h2 img {
     width: 80px;
     height: 100px;
@@ -23,7 +18,7 @@ h2 img {
 
 .pricing img {
     width: 63px;
-    height: 36;
+    height: 36px;
 }
 
 ul li {
